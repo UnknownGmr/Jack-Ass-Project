@@ -46,7 +46,7 @@ start JackAss-Pinger.bat
 exit
 
 :ndip
-start NDIP(For-JackAss).bat
+start NDIP.bat
 exit 
 
 cls
